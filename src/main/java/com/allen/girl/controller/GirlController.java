@@ -1,5 +1,7 @@
-package com.allen.demo;
+package com.allen.girl.controller;
 
+import com.allen.girl.entity.Girl;
+import com.allen.girl.repository.GirlRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;

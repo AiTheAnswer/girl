@@ -1,5 +1,6 @@
-package com.allen.demo;
+package com.allen.girl.controller;
 
+import com.allen.demo.GirlProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;

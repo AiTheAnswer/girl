@@ -1,4 +1,4 @@
-package com.allen.demo;
+package com.allen.girl.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
